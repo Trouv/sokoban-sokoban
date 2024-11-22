@@ -11,7 +11,7 @@
 	"iid": "ad496940-9f30-11ed-b774-e34072faa0ec",
 	"jsonVersion": "1.5.3",
 	"appBuildId": 475672,
-	"nextUid": 250,
+	"nextUid": 253,
 	"identifierStyle": "Capitalize",
 	"toc": [],
 	"worldLayout": "LinearHorizontal",
@@ -4054,6 +4054,35 @@
 				{ "__identifier": "Title", "__type": "String", "__value": "Abacus", "__tile": null, "defUid": 28, "realEditorValues": [{
 					"id": "V_String",
 					"params": ["Abacus"]
+				}] },
+				{ "__identifier": "Notes", "__type": "String", "__value": null, "__tile": null, "defUid": 64, "realEditorValues": [] }
+			],
+			"layerInstances": null,
+			"__neighbours": []
+		},
+		{
+			"identifier": "Worlds_apart",
+			"iid": "dff2fdf0-25d0-11ef-8b70-ebbd6104afab",
+			"uid": 252,
+			"worldX": -1,
+			"worldY": -1,
+			"worldDepth": 0,
+			"pxWid": 608,
+			"pxHei": 320,
+			"__bgColor": "#3A1847",
+			"bgColor": null,
+			"useAutoIdentifier": false,
+			"bgRelPath": null,
+			"bgPos": null,
+			"bgPivotX": 0.5,
+			"bgPivotY": 0.5,
+			"__smartColor": "#93809A",
+			"__bgPos": null,
+			"externalRelPath": "willos-graveyard/Worlds_apart.ldtkl",
+			"fieldInstances": [
+				{ "__identifier": "Title", "__type": "String", "__value": "Worlds apart", "__tile": null, "defUid": 28, "realEditorValues": [{
+					"id": "V_String",
+					"params": ["Worlds apart"]
 				}] },
 				{ "__identifier": "Notes", "__type": "String", "__value": null, "__tile": null, "defUid": 64, "realEditorValues": [] }
 			],
