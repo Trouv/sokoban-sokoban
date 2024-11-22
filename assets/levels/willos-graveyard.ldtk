@@ -3742,35 +3742,6 @@
 			"__neighbours": []
 		},
 		{
-			"identifier": "Trocar",
-			"iid": "8a930940-6280-11ee-9d82-13b88abc29a6",
-			"uid": 199,
-			"worldX": -1,
-			"worldY": -1,
-			"worldDepth": 0,
-			"pxWid": 448,
-			"pxHei": 352,
-			"__bgColor": "#3A1847",
-			"bgColor": null,
-			"useAutoIdentifier": false,
-			"bgRelPath": null,
-			"bgPos": null,
-			"bgPivotX": 0.5,
-			"bgPivotY": 0.5,
-			"__smartColor": "#93809A",
-			"__bgPos": null,
-			"externalRelPath": "willos-graveyard/Trocar.ldtkl",
-			"fieldInstances": [
-				{ "__identifier": "Title", "__type": "String", "__value": "Trocar", "__tile": null, "defUid": 28, "realEditorValues": [{
-					"id": "V_String",
-					"params": ["Trocar"]
-				}] },
-				{ "__identifier": "Notes", "__type": "String", "__value": null, "__tile": null, "defUid": 64, "realEditorValues": [] }
-			],
-			"layerInstances": null,
-			"__neighbours": []
-		},
-		{
 			"identifier": "Vertically_challenged",
 			"iid": "2cecfe30-8990-11ee-bfd9-0daeeaed03a8",
 			"uid": 226,
